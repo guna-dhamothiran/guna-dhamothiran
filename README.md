@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/guna-dhamothiran/guna-dhamothiran/assets/your-image-id/banner.gif" alt="Welcome Banner" />
+</p>
+
 <h1 align="center">
   <img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" />
   Hi there, I'm Guna D
@@ -10,35 +15,63 @@
   </a>
 </p>
 
-# 💫 About Me:
-💀 I’m currently working on web Application<br>
-⚙️ Ask me about Design<br>
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gunalc)
+### 💫 About Me
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&height=40)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&height=40)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&height=40)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&height=40)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white&height=40)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&height=40)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7&height=40)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white&height=40)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&height=30)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD&height=30)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white&height=40)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&height=40)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&height=40)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&height=40)
+- 💀 I’m currently working on **web applications**
+- ⚙️ Ask me about **design, full stack, and frontend technologies**
+- 🌐 Portfolio: [Check My Portfolio](https://your-portfolio-url.com)
+- 📫 Contact: gunad210@gmail.com
+- ⚡ Fun fact: **I love building clean UI and exploring new tools**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=guna-d&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=guna-d&theme=dark&hide_border=false)
-<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guna-d&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+### 🌐 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/gunalc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guna-dhamothiran&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guna-dhamothiran&theme=dark&hide_border=false" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guna-dhamothiran&theme=dark&hide_border=false&layout=compact" />
+</p>
+
+---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=guna-d&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=guna-dhamothiran&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
