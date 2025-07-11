@@ -30,7 +30,7 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/gunalc" target="_blank">
+  <a href="https://linkedin.com/in/gunadhamothiran" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
 </p>
